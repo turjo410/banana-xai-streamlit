@@ -1,3 +1,29 @@
+## 🍌 Project Resources & Live Demo
+
+<div align="center">
+
+### 🚀 **Live Streamlit App**
+
+[![Launch App](https://img.shields.io/badge/🚀_Try_Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://bananaapp.streamlit.app)
+
+**[🎉 Open Banana XAI Classification App](https://bananaapp.streamlit.app)**
+
+*Interactive banana classification with explainable AI visualizations*
+
+---
+
+### 📁 **Download Complete Project**
+
+[![Download Project](https://img.shields.io/badge/📦_Download_Project-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1FFp5SMLxZhq_Oiyypy7fOpP2YSOBZ7xb/view?usp=sharing)
+
+**[📂 Get Full Source Code & Resources](https://drive.google.com/file/d/1FFp5SMLxZhq_Oiyypy7fOpP2YSOBZ7xb/view?usp=sharing)**
+
+*Complete project files, weights, and documentation for local setup*
+
+</div>
+
+---
+
 ## 📚 Kaggle Notebooks & Model Weights
 
 <div align="center">
@@ -12,31 +38,31 @@
 <a href="https://www.kaggle.com/code/turjo410/banana-cnn-notebook-1-custom-cnn">
 <img src="https://img.shields.io/badge/Notebook%201-Custom%20CNN-orange?style=for-the-badge&logo=jupyter" alt="Custom CNN"/>
 </a>
-<br/>Basic CNN Implementation
+<br/><strong>Basic CNN Implementation</strong>
 </td>
 <td align="center" width="20%">
 <a href="https://www.kaggle.com/code/turjo410/banana-cnn-notebook-2-efficientnet-b0-dense">
 <img src="https://img.shields.io/badge/Notebook%202-EfficientNet-blue?style=for-the-badge&logo=jupyter" alt="EfficientNet"/>
 </a>
-<br/>Transfer Learning
+<br/><strong>Transfer Learning</strong>
 </td>
 <td align="center" width="20%">
 <a href="https://www.kaggle.com/code/turjo410/banana-cnn-notebook-3-vgg16-convnext">
 <img src="https://img.shields.io/badge/Notebook%203-VGG16-green?style=for-the-badge&logo=jupyter" alt="VGG16"/>
 </a>
-<br/>Classical Architectures
+<br/><strong>Classical Architectures</strong>
 </td>
 <td align="center" width="20%">
 <a href="https://www.kaggle.com/code/turjo410/banana-cnn-notebook-4-vision-transformer">
 <img src="https://img.shields.io/badge/Notebook%204-ViT-purple?style=for-the-badge&logo=jupyter" alt="Vision Transformer"/>
 </a>
-<br/>Transformer Models
+<br/><strong>Transformer Models</strong>
 </td>
 <td align="center" width="20%">
 <a href="https://www.kaggle.com/code/turjo410/banana-cnn-notebook-5-xai-analysis">
 <img src="https://img.shields.io/badge/Notebook%205-XAI-red?style=for-the-badge&logo=jupyter" alt="XAI Analysis"/>
 </a>
-<br/>Explainable AI
+<br/><strong>Explainable AI</strong>
 </td>
 </tr>
 </table>
@@ -45,11 +71,14 @@
 
 ### 💾 Pre-trained Weights
 
-[![Download Weights](https://img.shields.io/badge/Download-Model%20Weights-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1am4mdy5jTWBEBRNWFjlWO_pSczga2bic?usp=sharing)
+[![Download Weights](https://img.shields.io/badge/📥_Download-Model_Weights-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1am4mdy5jTWBEBRNWFjlWO_pSczga2bic?usp=sharing)
 
 *All trained model weights available for download*
 
 </div>
+
+---
+
 
 
 # 🍌 Banana Variety and Ripeness Classification with Explainable AI (XAI)
