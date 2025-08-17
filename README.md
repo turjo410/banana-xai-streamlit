@@ -170,8 +170,8 @@ The app will open in your browser at `http://localhost:8501`.
 |------|------------|------|-------------|
 | **Shahriar Khan** | 2022-3-60-016 | 🔧 Lead Developer & Architecture | 25% |
 | **Tanvir Rahman** | 2022-3-60-134 | 🤖 Model Training & Optimization | 25% |
-| **Khalid Mahmud Joy** | 2022-3-60-149 | 💻 App Development & UI/UX | 25% |
-| **Rifah Tamanna** | 2022-3-60-159 | 📝 Documentation & Testing | 25% |
+| **Khalid Mahmud Joy** | 2022-3-60-159 | 💻 App Development & UI/UX | 25% |
+| **Rifah Tamanna** | 2022-3-60-149 | 📝 Documentation & Testing | 25% |
 
 ### 🎯 Individual Contributions
 
