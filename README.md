@@ -216,7 +216,7 @@ The app will open in your browser at `http://localhost:8501`.
 </details>
 
 ## 🏗️ Assignment Structure
-
+```
 banana-xai-classification/
 ├── app.py # Main Streamlit application
 ├── config.py # Model configurations
@@ -229,7 +229,7 @@ banana-xai-classification/
 ├── assets/ # Sample images
 │ ├── variety_samples/
 │ └── ripeness_samples/
-
+```
 
 
 ## 🔧 Technical Specifications
@@ -269,7 +269,7 @@ banana-xai-classification/
 - ✅ **NFR-2. Consistency**: The same prediction is shown across all XAI methods
 - ✅ **NFR-3. Reproducibility**: Clean startup with a detailed README file
 - ✅ **NFR-4. Graceful Handling**: Friendly error messages for missing weights or invalid inputs
-
+```
 ## 📦 Dependencies
 
 streamlit>=1.28.0
@@ -286,7 +286,7 @@ timm>=0.9.0
 transformers>=4.30.0
 opencv-python>=4.5.0
 tqdm>=4.62.0
-
+```
 
 ## 🚨 Troubleshooting
 
