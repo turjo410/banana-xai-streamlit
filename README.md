@@ -130,19 +130,19 @@ pip install -r requirements.txt
 ### 3. Setup Model Weights
 
 Place your trained model weights (`.pth` files) in the `weights/` directory:
-
+```
 weights/
 ├── CustomCNN_variety_best.pth
 ├── EfficientNet-B0_variety_classification_best.pth
 ├── custom_cnn_ripeness_best.pth
 └── ... (other model weights)
-
+```
 
 
 ### 4. Add Sample Images
 
 Place sample images in the `assets/` directory:
-
+```
 assets/
 ├── variety_samples/
 │ ├── Champa_Kola_57.jpg
@@ -152,7 +152,7 @@ assets/
 ├── Green_banana.jpg
 ├── Ripe_banana.jpg
 └── ...
-
+```
 
 
 ### 5. Run the App
