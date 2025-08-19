@@ -99,9 +99,9 @@
 
 ---
 
-## 📖 Assignment Overview
+## 📖 Project Overview
 
-This Assignment is an **interactive Streamlit web application** that classifies banana varieties and ripeness levels using multiple deep learning models. The app provides comprehensive **Explainable AI (XAI)** visualizations including Grad-CAM, Grad-CAM++, Eigen-CAM, Ablation-CAM, and LIME to help users understand model predictions.
+This Project is an **interactive Streamlit web application** that classifies banana varieties and ripeness levels using multiple deep learning models. The app provides comprehensive **Explainable AI (XAI)** visualizations including Grad-CAM, Grad-CAM++, Eigen-CAM, Ablation-CAM, and LIME to help users understand model predictions.
 
 ## ✨ Key Features
 
@@ -178,7 +178,7 @@ The app will open in your browser at `http://localhost:8501`.
 <details>
 <summary><b>Shahriar Khan (Lead Developer)</b></summary>
 
-- Assignment architecture design and coordination
+- Project architecture design and coordination
 - XAI integration (Grad-CAM, LIME implementations)
 - Error handling and debugging
 - Code optimization and performance tuning
@@ -215,7 +215,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 </details>
 
-## 🏗️ Assignment Structure
+## 🏗️ Project Structure
 ```
 banana-xai-classification/
 ├── app.py # Main Streamlit application
