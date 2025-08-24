@@ -38,10 +38,10 @@ st.markdown("""
         font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
     }
     
-    /* Keep white color for everything else but don't force font */
+    /* Keep white color for everything else but don't force font 
     *, *::before, *::after, div, span {
         color: white !important;
-    }
+    }*/
     
     /* Global dark background */
     .stApp, .main, body, html {
