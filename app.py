@@ -112,12 +112,14 @@ st.markdown("""
         transition: all 0.3s ease !important;
         box-shadow: 0 12px 30px rgba(0,0,0,0.4) !important;
         color: white !important;
+        background: #1e293b !important;
         display: flex !important;
         flex-direction: column !important;
         justify-content: center !important;
         align-items: center !important;
         text-align: center !important;
         padding: 1rem !important;
+        
     }
     
     .stButton > button:hover {
